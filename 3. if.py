@@ -28,7 +28,7 @@ print (x)
 x= (a/2,a*2)[a>5]
 print (x)
 
-# 함수호출도 가능하다.
+# 함수호출도 가능하다..
 def add(a,b): return a+b
 def sub(a,b): return a-b
 sel=0
