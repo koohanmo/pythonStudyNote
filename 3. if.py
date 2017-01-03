@@ -35,6 +35,6 @@ sel=0
 x=(add,sub)[sel](2,3)
 print (x)
 
-# Dictionary 를 이용해서 선택문을 만들 수 도 있다.
+# Dictionary 를 이용해서 선택문을 만들 수 도 있다...
 x={True:add, False:sub}[a>5](3,4)
 print (x)
